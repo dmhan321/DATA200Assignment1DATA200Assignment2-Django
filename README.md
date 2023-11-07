@@ -1,1 +1,1 @@
-# DATA200Assignment1DATA200Assignment2-Django
+# DATA200Assignment2-Django
